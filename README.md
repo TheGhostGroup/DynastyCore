@@ -21,10 +21,7 @@ World of Warcraft Warlords of Draenor (6.X) emulator based on TrinityCore projec
 
 ## Install
 
-Detailed installation guides are available in the wiki for
-[Windows](http://collab.kpsn.org/display/tc/Win),
-[Linux](http://collab.kpsn.org/display/tc/Linux) and
-[Mac OSX](http://collab.kpsn.org/display/tc/Mac).
+Comming Soon! When I Get The Time To Make A Tutorial.
 
 In order to complete the installation of the core, you need some other dependencies, they are:
 - LibCurl, under linux its the package libcurl4-openssl-dev, under windows you may have to compile it your self,
