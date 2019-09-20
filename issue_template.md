@@ -20,9 +20,9 @@ Steps to reproduce the problem:
 
 Branch(es):
 
-CHANGEME 3.3.5, master or both
+master
 
-TC rev. hash/commit:
+DC rev. hash/commit:
 
 CHANGEME Copy the result of server debug command (if you need to run it from client get prat addon)
 
