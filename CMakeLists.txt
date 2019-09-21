@@ -1,7 +1,7 @@
 #
-#  MILLENIUM-STUDIO
-#  Copyright 2016 Millenium-studio SARL
-#  All Rights Reserved.
+#  DynastyCore
+#  Dynasty Gaming 2019
+#  
 #
 
 # Set projectname (must be done AFTER setting configurationtypes)
@@ -18,7 +18,7 @@ project(WoDCore)
 set(CMAKE_SKIP_BUILD_RPATH 0)
 set(CMAKE_BUILD_WITH_INSTALL_RPATH 0)
 if ( CMAKE_INSTALL_PREFIX MATCHES "/usr/local" )
-  set(CMAKE_INSTALL_RPATH "${CMAKE_INSTALL_PREFIX}/lib/firestorm")
+  set(CMAKE_INSTALL_RPATH "${CMAKE_INSTALL_PREFIX}/lib/dynastycore")
 else()
   set(CMAKE_INSTALL_RPATH "${CMAKE_INSTALL_PREFIX}/lib")
 endif()
