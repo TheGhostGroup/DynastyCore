@@ -1,7 +1,7 @@
 #
-#  MILLENIUM-STUDIO
-#  Copyright 2016 Millenium-studio SARL
-#  All Rights Reserved.
+#  DynastyCore
+#  Dynasty Gaming 2019
+#  
 #
 
 # This file is run right before CMake starts configuring the sourcetree
