@@ -1,9 +1,10 @@
 ## Note 
-Updated Database Comming Soon!
-Current Database in sql is full of bugs and will prevent world server from starting.
+Do not use the World Database in the sql/base folder use the database here: https://github.com/TheGhostGroup/DynastyCore/releases
+it's not perfect but it works. More updates to come and better world databases in the future. At the moment I'm the only one working on this.
+
 
 ## Overview
-World of Warcraft Warlords of Draenor (6.X) emulator based on TrinityCore project, JadeCore (5.0.5), Garrosh (5.4.X)
+World of Warcraft Warlords of Draenor (6.2.3 20779) emulator based on TrinityCore project, JadeCore (5.0.5), Garrosh (5.4.X)
 
 
 ## Requirements
