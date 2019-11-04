@@ -1,14 +1,13 @@
+## Overview
+World of Warcraft Warlords of Draenor (6.2.3 20779) emulator based on TrinityCore project (6.x), JadeCore (5.0.5), Garrosh (5.4.X)
+
 ## Note 
 Do not use the World Database in the sql/base folder use the database here: https://github.com/TheGhostGroup/DynastyCore/releases
 it's not perfect but it works. More updates to come and better world databases in the future. At the moment I'm the only one working on this.
 
 ## Patched Client Exe
 At current the only patch exe that works is this one https://mega.nz/#!2YtTHarS!8v1gOioOooUN1JBWmG56-QCPE9QVDxjK9X40MSk20vk
-Make sure when setting the realm list addres in config.wtf that you set the file readonly as there is a bug and the client will try to change the address causing issues connecting.
-
-
-## Overview
-World of Warcraft Warlords of Draenor (6.2.3 20779) emulator based on TrinityCore project, JadeCore (5.0.5), Garrosh (5.4.X)
+Make sure when setting the realm list address in config.wtf that you set the file readonly as there is a bug and the client will try to change the address causing issues connecting.
 
 
 ## Requirements
