@@ -1,7 +1,7 @@
 #
-#  MILLENIUM-STUDIO
-#  Copyright 2016 Millenium-studio SARL
-#  All Rights Reserved.
+#  Dynasty Core
+#  Dynasty Gaming 2019
+#  https://github.com/TheGhostGroup/DynastyCore
 #
 
 add_subdirectory(genrev)
